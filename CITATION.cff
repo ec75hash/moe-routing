@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Single-Expert Readout of a Reflective Worldview Register in a Mixture-of-Experts Language Model"
+type: article
+authors:
+  - name: "Anonymous"
+version: "sanitized-v1.2.5"
+date-released: "2026-06-29"
+license: MIT
+keywords:
+  - mixture-of-experts
+  - mechanistic interpretability
+  - expert routing
+  - sparse autoencoders
+  - reflective worldview register
+preferred-citation:
+  type: article
+  title: "A Single-Expert Readout of a Reflective Worldview Register in a Mixture-of-Experts Language Model"
+  authors:
+    - name: "Anonymous"
+  year: 2026
+  month: 6
+  notes: "Sanitized sharing copy."
