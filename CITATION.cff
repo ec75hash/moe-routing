@@ -4,14 +4,14 @@ title: "A Single-Expert Readout of a Reflective Worldview Register in a Mixture-
 type: article
 authors:
   - name: "Anonymous"
-version: "sanitized-v1.2.5"
+version: "v1.2.5"
 date-released: "2026-06-29"
 license: MIT
 keywords:
   - mixture-of-experts
-  - mechanistic interpretability
+  - language models
   - expert routing
-  - sparse autoencoders
+  - model behavior
   - reflective worldview register
 preferred-citation:
   type: article
@@ -20,4 +20,4 @@ preferred-citation:
     - name: "Anonymous"
   year: 2026
   month: 6
-  notes: "Sanitized sharing copy."
+  notes: "Paper and figures."
